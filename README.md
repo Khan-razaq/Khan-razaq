@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Khan-razaq/Khan-razaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Khan-Razaq/Khan-Razaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
