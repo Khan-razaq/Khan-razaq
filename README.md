@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋, I'm Razaq  
 
-<!--
-**Khan-Razaq/Khan-Razaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me  
+-  Robotics enthusiast with experience in **ROS 2, Gazebo, and computer vision**  
+-  Interested in **robot control, simulation, and mapping**  
+-  Love exploring **robotics, AI, and embedded systems**   
 
-Here are some ideas to get you started:
+## Connect with Me  
+-  [LinkedIn](www.linkedin.com/in/razaqkhanma)  
+-  Email: khan.razaqma@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+✨ *Building, learning, and exploring robotics one step at a time!* 
