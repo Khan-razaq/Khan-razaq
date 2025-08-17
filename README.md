@@ -6,7 +6,7 @@
 -  Love exploring **robotics, AI, and embedded systems**   
 
 ## Connect with Me  
--  [LinkedIn](https://www.linkedin.com/in/razaqkhanma) 
+-  <a href="https://www.linkedin.com/in/razaqkhanma" target="_blank">LinkedIn</a> 
 -  Email: khan.razaqma@gmail.com 
 
 ---
